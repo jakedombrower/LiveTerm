@@ -1,6 +1,6 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
+  "title": "JakeTerm",
   "name": "John Doe",
   "ascii": "liveterm",
   "social": {
@@ -9,7 +9,7 @@
   },
   "email": "contact@email.com",
   "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "ps1_username": "jake",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
